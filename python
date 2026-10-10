@@ -1,0 +1,10 @@
+
+ResQMesh Mobile SOS is starting (local network only).
+Database: C:\Users\Mohamed Anas\Documents\ResQMesh\resqmesh.db
+Open one of these addresses on the laptop:
+  http://127.0.0.1:5001
+  http://172.16.30.130:5001  <-- try this on your Android phone (same Wi-Fi)
+Keep this terminal open. Allow Python through Windows Firewall on Private networks if prompted.
+
+ * Serving Flask app 'resqmesh_mobile_sos_offline_storage'
+ * Debug mode: off
